@@ -1,0 +1,30 @@
+/* Write your code here. */
+.app-container {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+
+  align-items: center;
+
+  background-image: radial-gradient(#1d976c, #93f9b9);
+}
+
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.input-el {
+  background-color: transparent;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  height: 30px;
+  font-size: 20px;
+  border-radius: 5px;
+  outline: none;
+}
+.letters {
+  height: 40px;
+  background-color: #ffffff;
+
+  color: #219a6f;
+}
